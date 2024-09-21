@@ -4,4 +4,4 @@
 3. Open CS2
 4. Open file and inject ingame
 6. Enjoy!
-https://www.sordum.org/9480/defender-control-v2-1/ (download to sordums)
+7. https://www.sordum.org/9480/defender-control-v2-1/ (download  sordums)
